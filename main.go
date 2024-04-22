@@ -61,7 +61,4 @@ func main() {
 	// Dosen mengirimkan pembaruan kepada semua Mahasiswa
 	dosen.Notify("Tugas baru telah diunggah.")
 
-	// Output:
-	// Mahasiswa Alice menerima: Tugas baru telah diunggah.
-	// Mahasiswa Bob menerima: Tugas baru telah diunggah.
 }
